@@ -1,0 +1,32 @@
+{
+	"time": "Sat Dec 29 2018 12:03:55 GMT+0700 (SE Asia Standard Time)",
+	"nativePlatformStatus": "1",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "ce9e28a7383c51c4d21781ed6887b82b103558812602a756f7d97e25c3037c76",
+	"changesRequireBuildTime": "Sat Dec 29 2018 10:38:06 GMT+0700 (SE Asia Standard Time)",
+	"appFilesHashes": {
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\app-routing.module.ts": "b280678a7fd87577313f232ecec87e7c3bc99315",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\app-routing.module.js": "5c86a414621283751dbbb2854ea25f422abb0439",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\app.component.html": "611325f92aae874130d34a7621cbbd3eabd48aac",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\app.component.ts": "6f32091fe48b1ec7bcb22035237249748b41a9e6",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\app.module.ts": "e19fed8bb07066991e5a9e1f818acc9f403199a9",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\app.component.js": "dae7184867d58cb885896d482da7df8d1c937166",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\app.module.js": "439952edc826d37fcdb0bd2b210b13b3debc8525",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\detail\\detail.component.css": "4a562cfe67931d17216aaed0ecef28f9315b1a9b",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\detail\\detail.component.html": "673e458e6447701736b749f828a29303ed826edd",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\detail\\detail.component.ts": "7e0d01ec1bb6b61deeee749951706d28e55fe4b4",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\detail\\detail.component.js": "7ac1007f0902dba70869e152dd39ee1a32f25b2f",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\home\\home.component.css": "c84fb03212c34cf5cdc84773944fc907a6e08b05",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\home\\home.component.html": "9ce571848d2d334bf63f891c94028f4e27279f2e",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\home\\home.component.js": "191cfa361973f03ac716c3cb9216b1ff21448d51",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\home\\home.component.ts": "0743a6dfb1c3a9f3872fe3914bb5ece4bdcc7caf",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\services\\api.js": "cb0e7b892c2de448792f31c4117fc254450cc2ea",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app\\services\\api.ts": "69a6a889d640bdb46fcc684aa33704a22f938cc5",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\app.css": "24f81ff5c41798f4671899fdc9d85993fbf27059",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\main.ts": "f91f1f60268600613f58424b2be0dc632a51a3d9",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\main.js": "c9a61e3d67cd0754356e8296f8375dd6a25e2b0d",
+		"D:\\Projects\\NativeScript\\apiUnira\\src\\package.json": "62db8f086c6c89608370f1d52d8bcf671ce139db"
+	}
+}

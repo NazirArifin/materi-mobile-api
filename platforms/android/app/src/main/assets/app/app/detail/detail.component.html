@@ -1,0 +1,8 @@
+<StackLayout *ngIf="mahasiswa">
+  <Image src="https://api.unira.ac.id/{{mahasiswa.attributes.thumbnail}}"></Image>
+  <GridLayout rows="auto, auto, auto">
+    <Label [text]="mahasiswa?.id" row="0"></Label>
+    <Label [text]="mahasiswa?.attributes.nama" row="1"></Label>
+    <Label [text]="mahasiswa?.attributes.alamat" row="2"></Label>
+  </GridLayout>
+</StackLayout>
